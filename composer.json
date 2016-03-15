@@ -1,0 +1,11 @@
+{
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Domain\\": "src/"
+        }
+    },
+    "require": {
+        "phpunit/phpunit": "^4.0"
+    }
+}
